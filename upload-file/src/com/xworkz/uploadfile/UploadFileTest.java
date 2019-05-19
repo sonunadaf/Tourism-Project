@@ -1,6 +1,5 @@
 package com.xworkz.uploadfile;
-//updating from git hub
-//again update 
+//updating from git 
 public class UploadFileTest {
 
 }
